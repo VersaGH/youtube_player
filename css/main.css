@@ -1,15 +1,17 @@
 /*Navbar*/
 #navbar {
     list-style-type: none;
+    margin-top: 0;
+    padding:0;
 }
 .navbar-left {
    display:inline-block;
-   float:left;
+   
 }
 
 .navbar-right {
    display:inline-block;
-   float:right;
+   margin-right:20px;
 }
 
 
@@ -18,11 +20,11 @@
 
 
 
-
 /*Sidebar*/
 
-
-
+aside {
+    float:right;
+}
 
 
 /*Comment Section*/
